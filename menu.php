@@ -12,25 +12,25 @@
                 <img src="assets/img/silhouette.png" alt="">
             </a>
             <div class="menu-links textUpper white-text flex alignCenter">
-                <a href="">
+                <a href="page-before-after.php">
                     antes e depois
                 </a>
-                <a href="">
+                <a href="page-find.php">
                     encontre um médico
                 </a>
-                <a href="">
+                <a href="page-testemonials.php">
                     depoimentos
                 </a>
-                <a href="">
+                <a href="page-contato.php">
                     contato
                 </a>
-                <a href="#">
+                <a href="page-faq.php">
                     faq
                 </a>
                 <a href="">
                     blog
                 </a>
-                <a href="#">
+                <a href="page-about.php">
                     sobre a sinclair
                 </a>
             </div>
@@ -62,25 +62,25 @@
             <img src="assets/img/silhouette.png" alt="">
         </a>
     </div>
-    <a href="">
+    <a href="page-before-after.php">
         antes e depois
     </a>
-    <a href="">
+    <a href="page-find.php">
         encontre um médico
     </a>
-    <a href="">
+    <a href="page-testemonials.php">
         depoimentos
     </a>
-    <a href="">
+    <a href="page-contato.php">
         contato
     </a>
-    <a href="#">
+    <a href="page-faq.php">
         faq
     </a>
     <a href="">
         blog
     </a>
-    <a href="#">
+    <a href="page-about.php">
         sobre a sinclair
     </a>
 

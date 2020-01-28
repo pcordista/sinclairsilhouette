@@ -10,13 +10,14 @@ header("Etag: $etag");
 <?php include 'header.php'; ?>
 <?php include 'menu.php'; ?>
 <div class="page-about-background">
-    <img src="assets/img/about.png" class="">
+    <img src="assets/img/about.jpg" class="">
 </div>
 <div class="about-intro white-text">
     <div class="containerEighteen textUpper">
         <div class="wrapper-apoio">
             <span class="small apoio">sobre</span>
-            <h1>Grande bagagem internacional. Mais de 40 anos de história.</h1>
+            <h1>A Sinclair tem o compromisso de oferecer os melhores resultados para os seus pacientes.</h1>
+            <P>E fazemos isso por meio de qualidade e experiência comprovadas, que podem ser vistas em todo o nosso portfólio de produtos, incluindo toda a linha Perfectha.</P>
         </div>
     </div>
 </div>
@@ -26,21 +27,26 @@ header("Etag: $etag");
         <div class="flex alignCenter sobre-block-1 columnOnMobile">
             <img src="assets/img/circle-1.png" alt="">
             <p class="about-core-text">
-                A Sinclair Pharma, empresa multinacional de dermatologia estética, foi fundada em 1971, no
-                Reino Unido, e está entre as principais empresas do segmento na Europa.
+                Nossa história começa lá atrás, ainda nos anos 70, em pleno Reino Unido. Crescemos, nos modernizamos e ganhamos a confiança de quem mais importa pra gente: você!
             </p>
         </div>
         <div class="flex alignCenter sobre-block-2 columnOnMobile">
             <img src="assets/img/circle-2.png" alt="">
             <p class="about-core-text black-text">
-                Somos especialistas em rejuvenescimento facial e nos preocupamos em oferecer o que há de mais inovador por meio de nossos fios de sustentação, preenchedores e bioestimuladores.
+                Essa experiência internacional, somada a uma forte ênfase em segurança, qualidade e na qualificação de nossos profissionais fez com que criássemos uma poderosa relação com distribuidores de mercados emergentes, incluindo China e Brasil.
             </p>
         </div>
         <div class="flex alignCenter sobre-block-3 invertOnMobile">
             <p class="about-core-text black-text">
-                Com operações na França, Alemanha, Espanha, Brasil, Inglaterra e Coreia, a Sinclair Pharma mantém uma rede internacional de distribuidores em mais de 90 países pelo mundo.
+                Somos apaixonados pelo que fazemos e estamos em constante inovação, buscando as últimas tendências do mercado para que possamos obter os melhores resultados e, claro, revolucionar cada vez mais!
             </p>
             <img src="assets/img/circle-3.png" alt="">
+        </div>
+        <div class="flex alignCenter sobre-block-6 invertOnMobile">
+            <p class="about-core-text black-text">
+                Com operações na França, Alemanha, Espanha, Brasil, Inglaterra e Coreia, a Sinclair Pharma mantém uma rede internacional de distribuidores em mais de 90 países pelo mundo.
+            </p>
+            <img src="assets/img/circle-4.png" alt="">
         </div>
         <div class="flex alignCenter justifycenter sobre-block-4 columnOnMobile">
             <img src="assets/img/circle-5.png" alt="">
@@ -50,7 +56,7 @@ header("Etag: $etag");
         </div>
         <div class="flex alignCenter justifycenter sobre-block-5 invertOnMobile">
             <p class="about-core-text black-text">
-                Prezamos pelo desenvolvimento contínuo de nossos clientes, oferecendo um suporte excepcional à prática. Por meio de treinamentos presenciais e online, nos empenhamos para capacitar nossos profissionais de saúde de forma exemplar, para que excelentes resultados sejam proporcionados aos seus pacientes.
+            Atualmente, estamos presentes em mais de 90 países, levando a beleza  para o mundo. Temos duas plantas fabris na Europa, uma em Lyon, na França, onde é produzida a linha Perfectha, formada por preenchedores bifásicos  de ácido hialurônico, e outra em Utrecht, nos Países Baixos, onde produzimos toda a linha Ellansé, que consiste em preenchedores e bioestimuladores  de colágeno de última geração. Estamos também em Michigan,  nos Estados Unidos, onde acontece a produção de Silhouette Soft, único fio de sustentação com cones do mundo, composto por ácido polilático.
             </p>
             <img src="assets/img/circle-6.png" alt="">
         </div>

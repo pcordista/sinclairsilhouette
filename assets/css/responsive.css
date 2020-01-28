@@ -38,7 +38,7 @@
     right: 0;
     padding: 1rem 0.5rem;
     background: rgba(0, 0, 0, 0.76) 0% 0% no-repeat padding-box;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .menusolid {
@@ -66,10 +66,10 @@
 
 .pushmenu {
     padding-top: 2rem;
-    background: #e36c7f;
+    background: #000;
     font-family: Montserrat;
     width: 240px;
-    color: white;
+    color: #f9f004;
     height: 100%;
     top: 0;
     z-index: 1000;
@@ -79,7 +79,7 @@
 .pushmenu a {
     display: block;
     /* drops the nav vertically*/
-    color: white;
+    color: #FFF;
     font-size: 16px;
     font-weight: bold;
     text-decoration: none;
@@ -111,7 +111,8 @@
     right: 0;
 }
 
-.pushmenu-push-toleft {
+.pushmenu-push-toleft,
+.pushmenu-push-toleft .menumobile {
     right: 240px;
 }
 
@@ -238,7 +239,7 @@
         line-height: 26px;
     }
     .footer-links-fix {
-        min-height: 130px !important
+        min-height: 130px !important;
     }
     .footer-redes {
         padding: 0 20%;
@@ -305,5 +306,24 @@
         width: 30%;
         max-width: 150px;
         margin-top: 5px;
+    }
+    .home-products .title::before,
+    .home-products .title::after,
+    .search::after {
+        display: none
+    }
+    .tratamento>img,
+    .search img {
+        width: 100%
+    }
+    .tratamento .full_absolute,
+    .search .full_absolute {
+        position: relative
+    }
+    .search {
+        padding-bottom: 2rem;
+    }
+    .before-after>div {
+        margin: 1rem 0
     }
 }

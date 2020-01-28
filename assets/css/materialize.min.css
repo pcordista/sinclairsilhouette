@@ -5864,10 +5864,7 @@ select:focus {
     outline: 1px solid #c9f3ef
 }
 
-button:focus {
-    outline: none;
-    background-color: #2ab7a9
-}
+button:focus {}
 
 label {
     font-size: .8rem;
