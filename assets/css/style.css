@@ -512,6 +512,41 @@ footer {
     text-transform: uppercase;
 }
 
+.copyright {
+    display: flex;
+    align-items: center;
+}
+
+.copyright-container {
+    background: #1AA8B0;
+    padding: 2rem 0;
+    color: white;
+}
+
+.copyright-footer {
+    margin-left: 25%!important;
+    width: 50%!important;
+    float: left!important;
+}
+
+.development {
+    text-align: center!important;
+    color: white!important;
+    font-size: 13px;
+}
+
+.desenvolvido {
+    width: 25%!important;
+    float: left!important;
+    vertical-align: middle!important;
+}
+
+.img-fluid {
+    margin-left: 5px;
+    height: 25px;
+    margin: 0 auto;
+}
+
 
 /********************* PAGINA SOBRE *********************/
 
