@@ -21,7 +21,7 @@ header("Etag: $etag");
                 <h2>Ainda com dúvidas? Sem problemas!</h2>
                 <p>É normal que algumas dúvidas surjam durante a realização do procedimento com Perfectha. E estamos aqui para esclarecê-las! Confira as mais comuns:</p>
             </div>
-            <div class="margin_1_top row">
+            <div class="margin_1_top faq-row">
                 <div class="col s12 m3 l3 faq-filter white-text">
                     <span class="title">
                         por categorias
