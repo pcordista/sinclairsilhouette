@@ -2,7 +2,8 @@
     .container,
     .containerEighteen {
         max-width: 1500px;
-        width: 65%;
+        width: 65% !important;
+        margin: 0 auto !important
     }
     .menu-links {
         display: flex;
@@ -13,20 +14,24 @@
     }
     .home-intro {
         position: relative;
-        margin: 0 20%;
+        margin: 0 15%;
         overflow: hidden;
     }
+    .home-intro .container {
+        width: 100% !important
+    }
     .home-intro .container .home-intro-one {
-        margin-top: 10%;
+        margin-top: 9%;
         max-width: 40%;
-        margin-left: 5%;
+        margin-left: 10%;
+        font-size: 12px;
     }
     .home-intro .container .home-intro-two {
-        margin-top: 8%;
-        max-width: 30%;
-        margin-left: 30%;
+        margin-top: 12%;
+        max-width: 40%;
+        margin-left: 20%;
     }
-    .split-screen-content .containerEighteen .center-align {
+    .split-screen-content .containerEighteen .margin_1_vert {
         font-size: 28px;
         margin-bottom: 1rem
     }
@@ -43,6 +48,7 @@
         margin-top: 10%;
         max-width: 40%;
         margin-left: 5%;
+        font-size: 14px;
     }
     .home-intro .container .home-intro-two {
         margin-top: 12%;
@@ -57,6 +63,15 @@
         position: absolute;
         width: 100%;
         margin-left: 0;
+    }
+    .home-intro {
+        position: relative;
+        margin: 0 auto;
+        max-width: 1300px;
+        overflow: hidden;
+    }
+    .home-products .title {
+        font-size: 36px;
     }
 }
 
@@ -360,7 +375,9 @@
     }
     .home-products .title::before,
     .home-products .title::after,
-    .search::after {
+    .search::after,
+    .representantes-intro::before,
+    .representantes-intro::after {
         display: none
     }
     .tratamento>img,

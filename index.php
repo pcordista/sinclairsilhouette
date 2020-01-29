@@ -25,7 +25,7 @@ header("Etag: $etag");
 <div class="home-intro hide-on-med-and-down">
     <img src="assets/img/intro.jpg" class="widthfull">
     <div class="container">
-        <div class="home-intro-one white-text">
+        <div class="home-intro-one black-text">
             <h4>
                 SILHOUETTE SOFT TEM TECNOLOGIA EXCLUSIVA E INOVADORA:</h4>
             <strong>Único fio de sustentação com cones</strong> do mundo, totalmente absorvível e composto por ácido polilático, o que proporciona a <strong>regeneração do colágeno</strong> da pele de forma gradual e natural.
@@ -42,8 +42,8 @@ header("Etag: $etag");
 
 <div class="home-products">
     <div class="title">
-        <strong>Regenera naturalmente</strong> o volume da pele<BR>
-        e <strong>restaura as formas</strong> que o tempo apagou.
+    <strong>Silhouette Soft</strong>: ideal para pessoas que buscam<BR>
+uma verdadeira conexão com a autoestima.
     </div>
 </div>
 
@@ -79,10 +79,10 @@ header("Etag: $etag");
                         Terço médio e Linha da Mandíbula
                     </div>
                 </div>
-                <img src="assets/img/perfectha.png" alt="">
+                <img src="assets/img/silhouette.png" alt="">
             </div>
             <div class="margin_2_top row">
-                <a href="#" class="see-more textUpper center-align">
+                <a href="#" class="see-more textUpper white-text center-align">
                     veja mais resultados
                 </a>
             </div>

@@ -20,7 +20,9 @@ header("Etag: $etag");
             <h1>Pacientes reais. Resultados reais.</h1>
             <P>Confira o <strong>antes e depois</strong> do procedimento com Ellansé!</P>
         </div>
-        <div class="before-after-page split-slider">
+    </div>
+    <div class="find-selects-content">
+        <div class="before-after-page containerEighteen split-slider">
             <div>
                 <div class="split-screen twentytwenty-container row">
                     <img src="assets/img/split-before.jpg" class="widthfull" />

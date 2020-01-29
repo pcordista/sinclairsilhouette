@@ -17,8 +17,8 @@ header("Etag: $etag");
 <div class="sectionStart representantes-intro faq">
     <div class="containerEighteen">
         <div class="intro black-text">
-            <h1>Restaure naturalmente as formas
-                <BR>que o tempo apagou!</h1>
+            <h1>ENCONTRE UM MÉDICO</h1>
+            <h2>Que tal realizar um procedimento com Silhouetete Soft</h2>
             <h2>Encontre o <strong>profissional especializado</strong> mais perto de você!</h2>
         </div>
         <div class="find-selects">

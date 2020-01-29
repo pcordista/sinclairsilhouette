@@ -26,8 +26,52 @@ header("Etag: $etag");
     <div class="">
         <div class="find-selects containerEighteen">
             <div class="row">
-                <div class="col s12 m12 l10 offset-l1">
-                    teste
+                <div class="col s12 m12 l10 offset-l1 contato textUpper">
+                    <div class="input-field">
+                        <span>nome</span>
+                        <input type="text">
+                    </div>
+                    <div class="input-field">
+                        <span>e-mail</span>
+                        <input type="text">
+                    </div>
+                    <div class="row input-field">
+                        <div class="col s12 m6">
+                            <span>telefone</span>
+                            <input type="text">
+                        </div>
+                        <div class="col s12 m2">
+                            <span>uf</span>
+                            <select class="browser-default">
+                                <option value="" disabled selected>UF</option>
+                                <option value="1">Option 1</option>
+                                <option value="2">Option 2</option>
+                                <option value="3">Option 3</option>
+                            </select>
+                        </div>
+                        <div class="col s12 m4">
+                            <span>cidade</span>
+                            <select class="browser-default">
+                                <option value="" disabled selected>Cidade</option>
+                                <option value="1">Option 1</option>
+                                <option value="2">Option 2</option>
+                                <option value="3">Option 3</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="input-field">
+                        <span>assunto</span>
+                        <input type="text">
+                    </div>
+                    <div class="input-field">
+                        <span>mensagem</span>
+                        <textarea name="" id="" cols="30" rows="10" placeholder=""></textarea>
+                    </div>
+                    <div class="contato-button margin_1_top right">
+                        <a href="#" class="white-text">
+                            enviar
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

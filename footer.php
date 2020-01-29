@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col s12 m6 l6">
                 <a href="#">
-                    <img src="assets/img/silhoutte.png" alt="" class="footer-logo">
+                    <img src="assets/img/silhouette.png" alt="" class="footer-logo">
                 </a>
                 <div class="margin_2_top row">
                     <div class="col s6 m3 footer-links textUpper">
