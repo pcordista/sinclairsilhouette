@@ -45,18 +45,19 @@ strong {
 /********************* MENU *********************/
 
 .menu {
-    padding: 10px 0;
-    background: rgba(0, 0, 0, 0.3) 0% 0% no-repeat padding-box;
+    padding: 0px 0 10px;
+    background: rgba(167, 117, 117, 0.3) 0% 0% no-repeat padding-box;
     position: fixed;
     left: 0;
     right: 0;
-    top: 50px;
+    top: 0px;
     z-index: 10;
     transition: 0.3s;
 }
 
 .menu-row {
     justify-content: space-between;
+    margin-top: 1rem;
 }
 
 .menu-row>img {
@@ -85,12 +86,32 @@ strong {
 
 .top-menu .container {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .top-menu img {
     height: 40px;
 }
+
+.menu-redes {
+    display: flex;
+    flex-flow: row;
+}
+
+.menu-redes > a{
+    margin: 0 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    width: 25px;
+}
+
+.menu-redes i {
+    font-size: 15px;
+}
+
 
 
 /********************* HOME-INTRO *********************/

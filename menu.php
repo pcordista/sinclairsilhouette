@@ -1,11 +1,26 @@
-<section class="top-menu right-align">
-    <div class="container">
-        <a href="#">
-            <img src="assets/img/sinclair.png" alt="">
-        </a>
-    </div>
-</section>
 <section class="menu alignCenter desktop">
+    <section class="top-menu white">
+        <div class="container">
+
+            <div class="menu-redes">
+                <a href="#" target="_blank">
+                    <i class="fab fa-facebook black-text"></i>
+                </a>
+                <a href="#" target="_blank">
+                    <i class="fab fa-instagram black-text"></i>
+                </a>
+                <a href="#" target="_blank">
+                    <i class="fab fa-linkedin black-text"></i>
+                </a>
+                <a href="#" target="_blank">
+                    <i class="fab fa-youtube black-text"></i>
+                </a>
+            </div>
+            <a href="#">
+                <img src="assets/img/sinclair.png" alt="">
+            </a>
+        </div>
+    </section>
     <div class="container">
         <div class="menu-row flex alignCenter">
             <a href="index.php">
@@ -57,7 +72,7 @@
 
 
 <div class="pushmenu pushmenu-right textCapitalize">
-    <div class="center">
+    <div class="center logo">
         <a href="index.php">
             <img src="assets/img/silhouette.png" alt="">
         </a>
