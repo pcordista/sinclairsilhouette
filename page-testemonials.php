@@ -14,7 +14,7 @@ header("Etag: $etag");
     <img src="assets/img/testemonials.jpg" class="widthfull">
 </div>
 
-<div class="sectionStart representantes-intro faq">
+<div class="sectionStart representantes-intro faq icon-intro">
     <div class="containerEighteen">
         <div class="intro black-text">
             <h1>DEPOIMENTOS</h1>

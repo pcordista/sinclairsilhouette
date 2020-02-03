@@ -26,13 +26,13 @@ header("Etag: $etag");
     <img src="assets/img/intro.jpg" class="widthfull">
     <div class="container">
         <div class="home-intro-one black-text">
-            <h4>
+            <h4 style="font-weight: 400">
                 SILHOUETTE SOFT TEM TECNOLOGIA EXCLUSIVA E INOVADORA:</h4>
             <strong>Único fio de sustentação com cones</strong> do mundo, totalmente absorvível e composto por ácido polilático, o que proporciona a <strong>regeneração do colágeno</strong> da pele de forma gradual e natural.
         </div>
         <div class="home-intro-two black-text">
             A estrutura 3D dos cones oferece maior <strong>poder de sustentação</strong> e alta eficiência no <strong>reposicionamento dos tecidos</strong> para uma aparência mais jovem e aspecto natural.
-            <BR>
+            <BR>    
             Silhouette Soft atenua rugas e linhas de expressão
             em um procedimento minimante invasivo que
             leva aproximadamente 30 minutos.
@@ -47,7 +47,7 @@ uma verdadeira conexão com a autoestima.
     </div>
 </div>
 
-<div class="produto-2">
+<div class="produto-2 sectionStart">
     <div class="title">
         Silhoutte Soft® • Reshape Plus
     </div>
@@ -61,10 +61,10 @@ uma verdadeira conexão com a autoestima.
 <div class="split-screen-content">
     <div class="containerEighteen">
         <div>
-            <div class="center-align margin_1_vert">
-                Confira o <strong>antes e depois</strong> das pacientes
-            </div>
-            <div class="split-screen twentytwenty-container row">
+            <h4 style="font-weight: 400" class="center-align margin_1_vert">
+                Confira o <strong>antes e depois</strong> das pacientes:
+            </h4>
+            <div class="split-screen sectionStart twentytwenty-container row">
                 <img src="assets/img/split-before.jpg" class="widthfull" />
                 <img src="assets/img/split-after.jpg" class="widthfull" />
             </div>

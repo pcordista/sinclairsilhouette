@@ -14,11 +14,11 @@ header("Etag: $etag");
     <img src="assets/img/banner-ba.jpg" class="widthfull">
 </div>
 
-<div class="sectionStart representantes-intro faq">
+<div class="sectionStart representantes-intro faq icon-intro">
     <div class="containerEighteen">
         <div class="intro black-text">
-            <h1>Pacientes reais. Resultados reais.</h1>
-            <P>Confira o <strong>antes e depois</strong> do procedimento com Ellansé!</P>
+            <h1>antes e depois</h1>
+            <h4 style="font-weight: 400">Pacientes reais resultados sensacionais.</h4>
         </div>
     </div>
     <div class="find-selects-content">
@@ -29,33 +29,17 @@ header("Etag: $etag");
                     <img src="assets/img/split-after.jpg" class="widthfull" />
                 </div>
                 <div class="row black white-text before-after relative">
-                    <div class="col s12 m12 l6 title">
-                        <div class="center-align"><strong class="textUpper bold">valerie</strong></div>
-                        <div class="margin_1_top  textUpper content">
-                            <div class="colorYellow bold">
-                                sinais de envelhecimento
-                            </div>
-                            <div>Flacidez Facil</div>
-                            <div>linhas e rugas profundas no rosto</div>
-                            <div>linhas mandibular sem contorno e definição</div>
+                    <div>
+                        <img src="assets/img/face.png" alt="">
+                    </div>
+                    <div class="title">
+                        <div><strong class="textUpper">valerie</strong></div>
+                        <div>48 anos</div>
+                        <div class="margin_1_top">
+                            Terço médio e Linha da Mandíbula
                         </div>
                     </div>
-                    <div class="col s12 m12 l6 links">
-                        <div class="">
-                            <a href="#" class="cta">
-                                Sabine após 24 meses
-                            </a>
-                        </div>
-                        <div class="margin_1_top  textUpper content">
-                            <div class="colorYellow bold">
-                                ANTES ELLANSÉ®
-                            </div>
-                            <div>Sulcos nasolabiais suavizados</div>
-                            <div>Redefinição da linha mandibular</div>
-                            <div>Aumento de volume nas maçãs do rosto e região temporal</div>
-                        </div>
-                    </div>
-                    <img src="assets/img/ellanse.png" alt="">
+                    <img src="assets/img/silhouette.png" alt="">
                 </div>
             </div>
             <div>
@@ -64,33 +48,17 @@ header("Etag: $etag");
                     <img src="assets/img/split-after.jpg" class="widthfull" />
                 </div>
                 <div class="row black white-text before-after relative">
-                    <div class="col s12 m12 l6 title">
-                        <div class="center-align"><strong class="textUpper bold">valerie</strong></div>
-                        <div class="margin_1_top  textUpper content">
-                            <div class="colorYellow bold">
-                                sinais de envelhecimento
-                            </div>
-                            <div>Flacidez Facil</div>
-                            <div>linhas e rugas profundas no rosto</div>
-                            <div>linhas mandibular sem contorno e definição</div>
+                    <div>
+                        <img src="assets/img/face.png" alt="">
+                    </div>
+                    <div class="title">
+                        <div><strong class="textUpper">valerie</strong></div>
+                        <div>48 anos</div>
+                        <div class="margin_1_top">
+                            Terço médio e Linha da Mandíbula
                         </div>
                     </div>
-                    <div class="col s12 m12 l6 links">
-                        <div class="">
-                            <a href="#" class="cta">
-                                Sabine após 24 meses
-                            </a>
-                        </div>
-                        <div class="margin_1_top  textUpper content">
-                            <div class="colorYellow bold">
-                                ANTES ELLANSÉ®
-                            </div>
-                            <div>Sulcos nasolabiais suavizados</div>
-                            <div>Redefinição da linha mandibular</div>
-                            <div>Aumento de volume nas maçãs do rosto e região temporal</div>
-                        </div>
-                    </div>
-                    <img src="assets/img/ellanse.png" alt="">
+                    <img src="assets/img/silhouette.png" alt="">
                 </div>
             </div>
         </div>

@@ -14,12 +14,12 @@ header("Etag: $etag");
         <img src="assets/img/banner-perfectha.jpg" class="widthfull">
     </div>
 
-    <div class="sectionStart representantes-intro faq">
+    <div class="sectionStart bolinhas icon-intro representantes-intro faq">
         <div class="containerEighteen">
             <div class="intro">
-                <h1>FAQ</h1>
-                <h2>Ainda com dúvidas? Sem problemas!</h2>
-                <p>É normal que algumas dúvidas surjam durante a realização do procedimento com Perfectha. E estamos aqui para esclarecê-las! Confira as mais comuns:</p>
+                <h1>PERGUNTAS FREQUENTES</h1>
+                <BR>
+                <p>É normal que algumas dúvidas surjam em relação ao procedimento com Silhouette Soft. E estamos aqui para esclarecê-las! Confira as mais comuns: </p>
             </div>
             <div class="margin_1_top faq-row">
                 <div class="col s12 m3 l3 faq-filter white-text">
