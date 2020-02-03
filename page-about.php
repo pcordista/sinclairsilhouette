@@ -60,6 +60,12 @@ header("Etag: $etag");
             </p>
             <img src="assets/img/circle-6.png" alt="">
         </div>
+        <div class="flex alignCenter justifycenter sobre-block-4 columnOnMobile">
+            <img src="assets/img/circle-5.png" alt="">
+            <p class="about-core-text black-text">
+                A Sinclair possui duas plantas fabris na Europa, uma localizada em Lyon, na França, onde é produzida a linha Perfectha, e outra em Utrecht, nos Países Baixos, onde Ellansé é fabricado. Mantém ainda uma parceria no estado de Michigan, nos Estados Unidos, onde acontece a produção de Silhouette Soft.
+            </p>
+        </div>
     </div>
 </div>
 

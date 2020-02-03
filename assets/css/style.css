@@ -86,7 +86,7 @@ strong {
 
 .top-menu .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -97,6 +97,7 @@ strong {
 .menu-redes {
     display: flex;
     flex-flow: row;
+    margin-right: 1rem;
 }
 
 .menu-redes > a{
@@ -709,6 +710,7 @@ footer {
 .about-core .sobre-block-5 img {
     max-width: 450px;
     margin-left: 50px;
+    min-width: 250px;
 }
 
 .about-core .sobre-block-5 .about-core-text {
