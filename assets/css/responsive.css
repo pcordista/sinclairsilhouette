@@ -55,6 +55,19 @@
         max-width: 30%;
         margin-left: 30%;
     }
+    .about-intro .containerEighteen {
+        padding-top: 800px;
+        position: relative;
+    }
+    .about-core-bg {
+        position: absolute;
+        z-index: -1;
+        left: 20%;
+    }
+    .about-core .sobre-block-5 {
+        margin-top: 50px;
+        margin-right: 10%;
+    }
 }
 
 @media (min-width: 2400px) {
